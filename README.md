@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# udemy-projects
-Repositório para compartilhar projetos feita na plataforma de cursos Udemy.
-=======
 <center>
 <h1 style='font-size:60px;'>👋  HELLO WORLD!! </h1>
 
