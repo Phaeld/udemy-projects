@@ -7,7 +7,7 @@
 
 <p style="font-size:20px;">Aqui você vai encontrar projetos desenvolvidos por mim, <b>Raphael da Silva</b></p>
 
-[[https://github.com/Phaeld/udemy-projects/blob/main/img/phael.png]]
+<img src="https://github.com/Phaeld/udemy-projects/blob/main/img/phael.png" alt="Udemy">
 
 </center>
 
