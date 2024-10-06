@@ -1,0 +1,72 @@
+Atualmente, a área de Inteligência Artificial e Machine Learning (Aprendizagem de Máquina) estão sendo considerados os campos de trabalho mais relevantes da Tecnologia da Informação, sendo responsáveis pela utilização de algoritmos inteligentes para a construção de software e hardware que simulem a capacidade humana. O mercado de trabalho de Machine Learning em várias partes do mundo está em grande ascensão e a tendência é que este tipo de profissional seja cada vez mais requisitado! Inclusive alguns estudos apontam que o conhecimento dessa área será em breve um pré-requisito para os profissionais de Tecnologia da Informação!
+
+Para levar você até essa área, neste curso você terá uma visão teórica e principalmente prática sobre as principais e mais modernas técnicas de Inteligência Artificial! Este curso é considerado um guia completo pelo fato de apresentar desde conceitos mais básicos até técnicas mais modernas e avançadas, de modo que ao final você terá todas as ferramentas necessárias para construir soluções de Inteligência Artificial que podem ser aplicadas em problemas do dia-a-dia das empresas! O conteúdo está dividido em nove partes: algoritmos de busca, algoritmos de otimização, lógica difusa (fuzzy), machine learning, redes neurais (deep learning), processamento de linguagem natural, visão computacional, sistemas multiagente e também outras áreas de IA, como sistemas especialistas, GPS (general problem solver), redes bayesianas e raciocínio baseado em casos! Você aprenderá a teoria básica sobre cada um desses assuntos, bem como implementará exemplos práticos passo a passo. Veja abaixo alguns dos projetos/tópicos que serão desenvolvidos:
+
+Busca de rotas com melhores caminhos em mapas de cidades (busca gulosa e busca A*)
+
+Escolha das passagens áreas mais baratas, em um cenário de compra de passagens em grupo e maximização de lucros no carregamento de produtos - algoritmos de otimização: hill climb (subida da encosta), simulated annealing (têmpera simulada) e algoritmo genético
+
+Previsão do valor que você daria de gorjeta em um restaurante (lógica fuzzy)
+
+Classificação utilizando os algoritmos naïve bayes, árvore de decisão, regras, k-NN, regressão logística e redes neurais
+
+Previsão do preço de casas utilizando regressão linear
+
+Agrupamento de dados bancários utilizando o algoritmo k-means
+
+Geração de regras de associação com o algoritmo apriori
+
+Pré-processamento, redução de dimensionalidade e detecção de outliers em bases de dados
+
+Previsão do preço de ações com séries temporais
+
+Visualização e exploração de dados na base de dados da doença COVID-19
+
+Construção de um agente para controlar um táxi para transporte de passageiros com aprendizagem por reforço
+
+Classificação de imagens de gatos e cachorros com redes neurais convolucionais
+
+Classificação das imagens do Homer e Bart, do desenho dos Simpsons também utilizando redes neurais convolucionais
+
+Marcação POS (part-of-speech), lematização, stemização, nuvem de palavras (wordcloud) e extração de entidades nomeadas utilizando técnicas de processamento de linguagem natural
+
+Criação de um classificador de sentimentos em Português
+
+Detecção de faces e reconhecimento facial em imagens
+
+Rastreamento de objetos de vídeos
+
+Simulação de um sistema multiagente para comunicação entre agentes utilizando o protocolo FIPA-REQUEST
+
+Cada tipo de problema requer técnicas diferentes para sua solução, portanto, conhecendo todas as áreas de IA você saberá que técnicas utilizar nos mais variados tipos de cenários!
+
+Durante o curso, vamos utilizar a linguagem de programação Python e também a ferramenta gráfica Orange! Caso você não conheça Python, no final do curso você tem acesso a mais de 5 horas de vídeo com exercícios com o básico sobre essa linguagem de programação! Este é o curso ideal caso seja seu primeiro contato com Inteligência Artificial, pois você aprenderá na teoria e na prática todos os tópicos necessários! Caso você seja de nível mais avançado nessa área, pode utilizar esse curso como uma referência e para aprender novas área e revisar os conceitos
+
+O que você aprenderá
+A base teórica e prática dos principais algoritmos de Inteligência Artificial
+Implementar algoritmos de Inteligência Artificial do zero e utilizando bibliotecas
+Aprender na teoria e na prática sobre os algoritmos de Machine Learning para classificação, regressão, regras de associação e agrupamento
+Aprender Machine Learning sem saber uma linha de programação sequer
+Utilizar a ferramenta visual Orange para criar, analisar e testar os algoritmos
+Utilizar a linguagem de programação Python para criar algoritmos de Inteligência Artificial
+Aprender o básico da programação em Python
+Utilizar os algoritmos de busca gulosa e A* (A Estrela) encontrar a menor rota entre cidades
+Implementar algoritmos de otimização para problemas de minimização e maximização
+Implementar uma IA para prever o valor da gorjeta a ser dada em um restaurante, utilizando lógica difusa (fuzzy)
+Utilizar técnicas de exploração de dados aplicada em uma base de dados da doença COVID-19
+Criar um agente com aprendizagem por reforço para controlar os passageiros de um táxi
+Utilizar redes neurais artificiais e redes neurais recorrentes para classificar as imagens dos personagens Homer e Bart, do desenho dos Simpsons
+Aprender técnicas de processamento de linguagem natural e crie um classificador de sentimentos
+Detectar e reconhecer faces com usando técnicas de visão computacional
+Rastrear objetos em vídeo utilizando visão computacional
+Criar sistemas multiagente para simular uma comunicação entre agentes
+Há algum requisito ou pré-requisito para o curso?
+Lógica de programação, principalmente estruturas condicionais e estrutura de repetição
+Não é necessário conhecer a linguagem Python, pois no final do curso há um anexo com aulas básicas caso seja seu primeiro contato com ela
+Para quem é este curso:
+Pessoas interessadas em iniciar seus estudos em Inteligência Artificial, Machine Learning, Ciência de Dados ou Deep Learning
+Pessoas que querem estudar Inteligência Artificial, porém, não sabem por onde começar
+Alunos de graduação que estão estudando disciplinas ligadas a área de Inteligência Artificial
+Qualquer pessoa interessada em Inteligência Artificial
+Empreendedores que queiram aplicar aprendizagem de máquina em projetos comerciais
+Empresários que desejam criar soluções eficientes para problemas reais em suas empresas
