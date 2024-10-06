@@ -1,15 +1,19 @@
-
+<<<<<<< HEAD
+# udemy-projects
+Repositório para compartilhar projetos feita na plataforma de cursos Udemy.
+=======
+<center>
 <h1 style='font-size:60px;'>👋  HELLO WORLD!! </h1>
 
 <p style="font-size:20px;">Olá, sejam bem-vendos ao repositórios de atividades de cursos da <b>Udemy!</b></p>
 
-<img  src="https://assets.bitdegree.org/online-learning-platforms/storage/media/udemy-logo-big.o.png?tr=w-250" alt="Udemy">
+<img src="https://assets.bitdegree.org/online-learning-platforms/storage/media/udemy-logo-big.o.png?tr=w-250" alt="Udemy">
 
 <p style="font-size:20px;">Aqui você vai encontrar projetos desenvolvidos por mim, <b>Raphael da Silva</b></p>
 
-<img src="https://github.com/Phaeld/udemy-projects/blob/main/img/phael.png" alt="Phael" align="center">
+[[https://github.com/Phaeld/udemy-projects/main/img/phael.png|alt=Phael]]
 
-
+</center>
 
 <hr>
 
@@ -35,7 +39,7 @@ Aqui estão os cursos nos quais trabalhei e criei os desafios:
 </p>
 
 <h1 style='font-size:40px;'>WELLCOME, TO THE PATH I TOOK!</h1>
-
+<center>
  <p align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -52,3 +56,4 @@ Aqui estão os cursos nos quais trabalhei e criei os desafios:
 
 </p>
 
+>>>>>>> 5baa9d3 (Sejam bem-vindos ao repositório de atividades de cursos da Udemy)
