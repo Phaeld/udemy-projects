@@ -3,7 +3,7 @@
 
 <p style="font-size:20px;" align="center">Olá, sejam bem-vendos ao repositórios de atividades de cursos da <b>Udemy!</b></p>
 
-<img align="center" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/udemy-logo-big.o.png?tr=w-250" alt="Udemy">
+<img align-item="center" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/udemy-logo-big.o.png?tr=w-250" alt="Udemy">
 
 <p style="font-size:20px;" align="center">Aqui você vai encontrar projetos desenvolvidos por mim, <b>Raphael da Silva</b></p>
 
