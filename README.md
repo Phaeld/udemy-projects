@@ -2,9 +2,9 @@
 <h1 style='font-size:60px;' align="center">👋  HELLO WORLD!! </h1>
 
 <p style="font-size:20px;" align="center">Olá, sejam bem-vendos ao repositórios de atividades de cursos da <b>Udemy!</b></p>
-
-<img align-item="center" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/udemy-logo-big.o.png?tr=w-250" alt="Udemy">
-
+<center>
+<img  src="https://assets.bitdegree.org/online-learning-platforms/storage/media/udemy-logo-big.o.png?tr=w-250" alt="Udemy">
+</center>
 <p style="font-size:20px;" align="center">Aqui você vai encontrar projetos desenvolvidos por mim, <b>Raphael da Silva</b></p>
 
 <img src="https://github.com/Phaeld/udemy-projects/blob/main/img/phael.png" alt="Phael" align="center">
