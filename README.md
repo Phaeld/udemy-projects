@@ -7,7 +7,7 @@
 
 <p style="font-size:20px;">Aqui você vai encontrar projetos desenvolvidos por mim, <b>Raphael da Silva</b></p>
 
-<img src="https://github.com/Phaeld/udemy-projects/blob/main/img/phael.png" alt="Udemy">
+<img src="https://github.com/Phaeld/udemy-projects/blob/main/img/phael.png" alt="Phael">
 
 </center>
 
@@ -52,4 +52,3 @@ Aqui estão os cursos nos quais trabalhei e criei os desafios:
 
 </p>
 
->>>>>>> 5baa9d3 (Sejam bem-vindos ao repositório de atividades de cursos da Udemy)
